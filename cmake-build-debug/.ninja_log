@@ -1,0 +1,6 @@
+# ninja log v6
+1	335	7839342220409330	build.ninja	4c4af5066fc93b12
+23	116	7839342221923377	CMakeFiles/CSC343_assignment_7.dir/two_philosophers_mutex.c.obj	b6bc83915f4a6000
+118	283	7839342222877987	CSC343_assignment_7.exe	2f0568af7a9c7d10
+3	85	7839342688225810	CMakeFiles/CSC343_assignment_7.dir/two_philosophers_mutex.c.obj	b6bc83915f4a6000
+86	165	7839342689051224	CSC343_assignment_7.exe	2f0568af7a9c7d10
